@@ -1,0 +1,17 @@
+[33mcommit 01cc11509ca6ad8f34c22c3719f78d73652e4ca2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gustavo Henrique <gustavotinho@gmail.com>
+Date:   Sun Dec 3 14:08:06 2023 -0300
+
+    Mudança de Estado para Stateful na principal
+
+[33mcommit d6967a82cdb7fceaab4dca85d0e09f7b7a2c62ab[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Gustavo Henrique <gustavotinho@gmail.com>
+Date:   Wed Nov 29 14:42:25 2023 -0300
+
+    1º Parte - Adicionando a primeira tela de transação no Aplicativo
+
+[33mcommit 485260d93f19935c6c7e83f278b8119b4484ffd9[m
+Author: Gustavo Henrique <gustavotinho@gmail.com>
+Date:   Wed Nov 29 14:33:05 2023 -0300
+
+    Projeto de Despesas Pessoais - Transação de Telas - Formulários, lista e Usuários
