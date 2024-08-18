@@ -65,7 +65,7 @@ Enfrentei desafios ao estruturar os Containers em subcamadas. Em diversas situa�
 
  ## Visualização do Projeto 
 
- Visualize o projeto do Expenses, nesse link aqui: https://www.youtube.com/watch?v=DLzIUCGdMHc
+
 
 
 
